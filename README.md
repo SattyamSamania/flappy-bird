@@ -2,7 +2,8 @@
 
 A Python implementation of the classic Flappy Bird game using Pygame.
 
-![Flappy Bird Game](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/gameplay.png)
+https://github.com/user-attachments/assets/637cb7cc-eef2-428b-a74b-aae82363325a
+
 
 ## Description
 
