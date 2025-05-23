@@ -57,9 +57,12 @@ This is a clone of the popular Flappy Bird game where players control a bird, at
 
 ## Screenshots
 
-![start game](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/start_screen.png)
-![game play](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/gameplay.png)
-![game over](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/game_over.png)
+- **Start Game**
+  ![start game](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/start_screen.png)
+- **Game Play**  
+  ![game play](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/gameplay.png)
+- **Game Over**  
+  ![game over](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/game_over.png)
 
 ## Customization
 
