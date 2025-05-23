@@ -2,7 +2,7 @@
 
 A Python implementation of the classic Flappy Bird game using Pygame.
 
-![Flappy Bird Game](https://github.com/username/flappy-bird/raw/main/screenshots/gameplay.png)
+![Flappy Bird Game](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/gameplay.png)
 
 ## Description
 
@@ -54,6 +54,12 @@ This is a clone of the popular Flappy Bird game where players control a bird, at
 - **Progressive Difficulty**: Navigate through an endless series of pipes
 - **Score Tracking**: Earn points for each pipe you successfully pass
 - **Visual Effects**: Enhanced graphics with detailed bird, pipes, clouds, and ground textures
+
+## Screenshots
+
+![start game](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/start_screen.png)
+![game play](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/gameplay.png)
+![game over](https://github.com/SattyamSamania/flappy-bird/blob/main/screenshots/game_over.png)
 
 ## Customization
 
